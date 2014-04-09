@@ -30,7 +30,7 @@
     <td width="79">&nbsp;</td>
   </tr>
   <tr>
-    <td width="69"><span class="Estilo5">nombre</span></td>
+    <td width="69"><span class="Estilo5">nombre del usuario </span></td>
     <td width="200"><input name="textfield" type="text" size="30" maxlength="26" /></td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
